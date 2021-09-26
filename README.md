@@ -6,3 +6,4 @@ Links to the analysis:
 
 <https://github.com/jmvaldi/World_Weather_Analysis/blob/main/Vacation_search/Vacation_Search.ipynb>
 
+<https://github.com/jmvaldi/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb>
